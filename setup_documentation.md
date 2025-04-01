@@ -8,3 +8,4 @@
    / gehdee bagshaar dahij shalguulah /
 4. virtual buyu .venv vvsgeed pip install hiihed aldaa garj bsan upgrade hvrtel hiij bolohgvi bsan
    / vertion zaalgvi shuud name eer install hiihed asuudalgvi bolson / vertion ii ylgaag bag iig bagshaas asuuh
+5. odoohondo busdaar gaigvi bndo :
